@@ -151,9 +151,10 @@ Delivering negative information is rarely easy and never enjoyable, but with som
 		3. Supporting sentence
  - **Within these majors points you need transitions**
 3. **Closing**
-	a. General purpose
-	b. Specific purpose paraphrased
-	c. Major points to remember
-	d. Action you want reader to take
-	e. Expression of gratitude
-	f. Contact information
+
+	- General purpose
+	- Specific purpose paraphrased
+	- Major points to remember
+	- Action you want reader to take
+	- Expression of gratitude
+	- Contact information
