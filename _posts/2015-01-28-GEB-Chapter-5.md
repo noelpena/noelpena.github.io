@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Chapter 5"
+page-title:  "Chapter 5"
 date:   2015-01-28 09:50:30
 Class: GEB
 Semester: 2015S

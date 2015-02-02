@@ -4,20 +4,29 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
+	<div class="current-classes"  style="background-color: #f3f3f3;padding: 10px;">
+  <h1>Current Classes</h1>
+		<ul>
+			<li>MAN 3025 Introduction to Management and Organizational Behavior</li>
+			<li>GEB 3213 Communicating Business Info</li>
+			<li>BUL 4421 Business Law 1</li>
+			<li>FIN 3403 Principles of Financial Mgmt </li>
+		</ul>
+	</div>
+	<br>
+	<div class="recent-post">
+		<h1 class="page-heading">Recent Posts</h1>
+		<ul class="post-list">
+			{% for post in site.posts %}
+				<li>
+					<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+					<h2>
+						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					</h2>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
