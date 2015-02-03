@@ -1,0 +1,21 @@
+---
+layout: default
+title: FIN 3403
+page-title: Principles of Financial Management
+permalink: /FIN3403/
+category: fin3403
+---
+
+
+<h1 class="post-title">{{ page.page-title }}</h1>
+
+
+<div class="recent-post">
+  <ul class="">
+    {% for post in site.categories.fin3403 %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
