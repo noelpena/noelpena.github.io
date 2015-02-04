@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chapter 5"
-page-title:  "Chapter 5"
+title:  "Chapter 4"
+page-title:  "Chapter 4"
 date:   2015-01-28 04:02:30
 category: geb3213
 semester: 2015S
