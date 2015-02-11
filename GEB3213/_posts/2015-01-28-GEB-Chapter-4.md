@@ -181,8 +181,8 @@ The supporting sentence has to relate to the topic sentence by justifying, expla
 
 **There are 2 types of transitions**
 
-1. Inter-paragraph. See Pg. 35 for examples
-2. Intra-paragraph. Words, phrases, sentences, paragraph
+1. Inter-paragraph. Transitions connecting paragraphs together. See Pg. 35 for examples
+2. Intra-paragraph. Connecting: Words, phrases, sentences
 
 **Summary- Intro method**<br>
 Sentence that summarizes previous point and introduces new point
