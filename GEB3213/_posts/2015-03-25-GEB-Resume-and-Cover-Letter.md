@@ -7,9 +7,8 @@ category: geb3213
 semester: 2015S
 ---
 
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<link rel="stylesheet" href="http://markdown.pioul.fr/css/all-9c044ed3.css" />
 
-## Chapter 13 and 14
 
 <p><strong>What is a resume?</strong> <br>
 To get a potential employer interested in you <br>
