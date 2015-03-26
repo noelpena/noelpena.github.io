@@ -6,7 +6,10 @@ date:   2015-03-25
 category: geb3213
 semester: 2015S
 ---
-<h1 id="resume-and-cover-letters">Resume and Cover letters</h1>
+
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+
+## Chapter 13 and 14
 
 <p><strong>What is a resume?</strong> <br>
 To get a potential employer interested in you <br>
