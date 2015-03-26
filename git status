@@ -1,0 +1,220 @@
+[33mcommit 47c33d4e19a3f05b7ebcf198c5c85ec260e195f9[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Thu Mar 26 11:39:52 2015 -0400
+
+    Update to CH 13 and 14
+
+[33mcommit 8b3f6ac8446d8669b886fcbe59beef7bc0743fa4[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Thu Mar 26 11:19:44 2015 -0400
+
+    MD to HTML
+    
+    Markdown not displaying properly. Converted to HTML
+
+[33mcommit af962b2c3c80082f74498fabc26aac450698b32b[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Thu Mar 26 11:12:51 2015 -0400
+
+    Update to Resume and Cover notes
+
+[33mcommit de73ad9625d05442bac990aaded2ddae97ab37f7[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Thu Mar 26 10:44:47 2015 -0400
+
+    Adding New Class Notes
+    
+    Chapter 13 and 14
+
+[33mcommit 2ce95687c0470f54a04482d756688ab8fad6e2ad[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Sat Mar 21 11:56:52 2015 -0400
+
+    Two new post
+    
+    Chapter 10 and 11
+    Process of Writing
+
+[33mcommit e5cce2c005f0757003a0e1e8a46497934b6cbf1b[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Thu Feb 12 00:53:30 2015 -0500
+
+    Adding notes from GEB
+    
+    Notes from class 2-11-2015
+
+[33mcommit b63e22794560010fe597db0ec1e4071758cfb8bb[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Wed Feb 11 00:40:39 2015 -0500
+
+    Update to Chapter 4
+
+[33mcommit e4dc408ffa6123e7464ca95caa64155c4e237c68[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Thu Feb 5 01:40:54 2015 -0500
+
+    Adding GEB Notes
+
+[33mcommit e18e385c91061ab2da205d1303fdd1b6000428d6[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Wed Feb 4 01:14:02 2015 -0500
+
+    Edit to Title
+
+[33mcommit b4efc3d386708c59ad0b90df20d246dac1312cc4[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Wed Feb 4 01:13:08 2015 -0500
+
+    Added GEB Ch4 and update CH5
+
+[33mcommit 530a34e32bdd5b74df6148ada3c6e9f58a9077d3[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Wed Feb 4 00:40:22 2015 -0500
+
+    Added FIN notes
+
+[33mcommit f00225f7e4427fd7b5756a3e0e609c5920ee54f8[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Tue Feb 3 01:25:08 2015 -0500
+
+    Folder for each class and blog post
+    
+    Add folder for each class and blog post loop for each class category
+
+[33mcommit 02f8641e8301b9c30ab96e693edd49f0017b6382[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Mon Feb 2 16:33:03 2015 -0500
+
+    Create CNAME
+
+[33mcommit b3c3383d308cda4d5cc79b18a4fe42e8776f616a[m
+Merge: ec89c91 a6cd366
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Mon Feb 2 11:56:42 2015 -0500
+
+    Merge branch 'gh-pages'
+
+[33mcommit a6cd366bde4522c7915a850aa52499d2841d5c61[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Mon Feb 2 11:48:37 2015 -0500
+
+    Editing Chapter 5 post
+
+[33mcommit ec89c91f260ce9e3451f91288863c4afa069dd45[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Mon Feb 2 11:26:40 2015 -0500
+
+    Add Classes and added pagetitle
+    
+    Page Title now available along with regular title
+
+[33mcommit a727ec645aa621c6c8fccc70d5e58208fe8e9515[m
+Merge: e29691d 8af928f
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Mon Feb 2 09:46:46 2015 -0500
+
+    Add Index and updating Readme
+
+[33mcommit e29691d1c0c09b174a7c0e36f5ef77f62ce220aa[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Mon Feb 2 09:44:27 2015 -0500
+
+    Jekyll Added
+
+[33mcommit 11243a78763b88c7ea90c2636f3b866440af3edb[m
+Merge: 97ab97f 93fa739
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Thu Jan 29 19:12:09 2015 -0500
+
+    Merge remote-tracking branch 'origin/master'
+    
+    Conflicts:
+    	index.html
+    
+    Trying to fix conflict
+
+[33mcommit 8af928fa2b4aabf2a9763f76b673be661c66ce07[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Thu Jan 29 17:16:32 2015 -0500
+
+    Update
+
+[33mcommit 5058cb58c990e30ae5ec9f7e8a9aa052436059af[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Thu Jan 29 17:15:34 2015 -0500
+
+    Add sidebar and post
+    
+    Chapter 5
+    sidebar for classes
+
+[33mcommit fd82e6b8d5b7ee10b00a1f510e988ad7a90794bb[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Wed Jan 28 09:55:21 2015 -0500
+
+    Installed Jekyll
+
+[33mcommit 6be5fb781e3aeb29b5ad2239fcffdb315ba7b946[m
+Author: Noel Pena <noelp.wd@gmail.com>
+Date:   Wed Jan 28 09:45:54 2015 -0500
+
+    gh-pages branch created
+
+[33mcommit 97ab97f4df76d139a28f408d019c699e4659f96f[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Mon Jan 26 18:29:16 2015 -0500
+
+    Merge remote-tracking branch 'origin/master'
+    
+    Conflicts:
+    	index.html
+    
+    Adding Index file
+    
+    initial index file according or GitHub pages
+
+[33mcommit 93fa739fd7102221dd29c28aac2cd9ab272090db[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Mon Jan 26 12:04:22 2015 -0500
+
+    Delete style.css
+
+[33mcommit 109680dcf96eb90bc8a2a180a10401208ffe8da5[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Mon Jan 26 12:01:34 2015 -0500
+
+    Update index.html
+
+[33mcommit b979f74e1270c4f9cf14c73d75b7f208073f0adc[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Mon Jan 26 12:01:02 2015 -0500
+
+    Update index.html
+
+[33mcommit e6a541a6a082b1173d919b86249617a23085e901[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Mon Jan 26 12:00:26 2015 -0500
+
+    Update index.html
+    
+    link to stylesheet
+
+[33mcommit b00fab1ee45b99d49f5b34d9463518e4e5e4ef9d[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Mon Jan 26 11:59:21 2015 -0500
+
+    Create style.css
+    
+    Testing - adding stylesheet
+
+[33mcommit 823b4934ae09bfc85f28f8bb99bb8cc1af2d2704[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Mon Jan 26 10:01:49 2015 -0500
+
+    Create index.html
+
+[33mcommit 3db183c031984499ca73c18c168cb26a44bc700d[m
+Author: noelpena <noelp.wd@gmail.com>
+Date:   Sun Jan 25 21:24:57 2015 -0500
+
+    Initial commit
